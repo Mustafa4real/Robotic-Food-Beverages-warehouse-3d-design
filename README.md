@@ -5,7 +5,9 @@ The main idea would be robotic arms with prismatic joints to push the products t
 
 This project was designed using Tinkercad.
 
-<img width="725" height="453" alt="render" src="https://github.com/user-attachments/assets/5b5414ca-0c79-49f1-a9a3-a4ee824a617c" />
-
-
 <img width="1035" height="661" alt="1" src="https://github.com/user-attachments/assets/f67a7c38-117f-4005-9d2c-b7f7ee1ae3d3" />
+
+<img width="856" height="582" alt="3" src="https://github.com/user-attachments/assets/a9e72b05-ba55-4c11-a71d-1038bcc86ad5" />
+
+<img width="1218" height="1080" alt="Working and Deadzone envelopes" src="https://github.com/user-attachments/assets/b67f9d4a-a713-4550-935e-98778f521155" />
+
